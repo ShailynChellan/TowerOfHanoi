@@ -11,6 +11,7 @@ How to install and run application:
 6. Now you are readt to play, open the TowerOfHanoi.exe and enjoy. 
 
 How to play the game:
+
 In this game, your goal is to move the disks, using the games drag and drop functionality, to sort and arrange these disks from the 1st tower to the 3rd tower in the fastest time posssible, while ahearing to the following rules:
 1. Only 1 disk can be moved at a time.
 2. The disk can only move if it is the uppermost disk within that stack
